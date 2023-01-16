@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "elips-3f971": {
+      "hosting": {
+        "Clipper": [
+          "elips-3f971"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "elips-3f971"
+  }
+}
